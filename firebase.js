@@ -10,7 +10,7 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAzzoBVG8N1xkW3RTl4TPGv4D7D0333zhE",
+  apiKey: "***************************************",
   authDomain: "pictionis-3f0f5.firebaseapp.com",
   projectId: "pictionis-3f0f5",
   storageBucket: "pictionis-3f0f5.appspot.com",
